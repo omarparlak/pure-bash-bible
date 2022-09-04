@@ -8,3 +8,5 @@ The contents of this book provide  a reference for solving problems encountered 
 
 <!-- CHAPTER END -->
 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
